@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="401" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Bebas Neue">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="D" horiz-adv-x="406"><path d="M41.0005 0l168 0c110,0 164,60.9996 164,173l0 354c0,112 -54.0002,173 -164,173l-168 0 0 -700zm110 99.9997l0 500 55.9996 0c35.0002,0 56.0006,-17.9997 56.0006,-68.0001l0 -364c0,-49.9994 -21.0003,-68.0001 -56.0006,-68.0001l-55.9996 0z"/></glyph>
+   <glyph unicode="B" horiz-adv-x="403"><path d="M41.0005 0l173 0c110,0 167,58 167,166l0 59.9994c0,74.0003 -22.9998,126 -82,146l0 2.0004c49.0001,19.9992 70.9997,64.9995 70.9997,136.999l0 27.9998c0,108 -48.9992,161 -163,161l-165.999 0 0 -700zm110 415l0 185 53 0c39.0001,0 55.9996,-22.0005 55.9996,-71.9999l0 -39.0001c0,-56.0006 -25.0002,-74.0003 -65.9997,-74.0003l-42.9999 0zm0 -315l0 215 49.0001 0c49.9994,0 70.9997,-20.0001 70.9997,-85.0006l0 -60.9996c0,-51.9998 -20.0001,-69.0003 -56.9998,-69.0003l-63 0z"/></glyph>
+   <glyph unicode="P" horiz-adv-x="385"><path d="M41.0005 0l110 0 0 285 51.9998 0c110,0 164,60.9996 164,173l0 69.0003c0,112 -54.0002,173 -164,173l-162 0 0 -700zm110 385l0 215 51.9998 0c35.0002,0 54.0002,-16.0003 54.0002,-66.0006l0 -82.9992c0,-50.0003 -18.9999,-66.0006 -54.0002,-66.0006l-51.9998 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Bebas Neue";src:url("#FontID0") format(svg)}
+    .str0 {stroke:#F1B53B;stroke-width:6.94488}
+    .fil0 {fill:#373435}
+    .fil1 {fill:#F1B53B}
+    .fnt0 {font-weight:normal;font-size:4085.8px;font-family:'Bebas Neue'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_346258056">
+   <text x="2668" y="5289"  class="fil0 fnt0">PP</text>
+   <text x="2598" y="8330"  class="fil0 fnt0">DB</text>
+  </g>
+  <circle class="fil1 str0" cx="6601" cy="7923" r="438"/>
+ </g>
+</svg>
